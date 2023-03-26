@@ -1,7 +1,7 @@
 baseURL = "https://lighthearted-taffy-2befb1.netlify.app/"
 publishDir = "public"
 languageCode = 'ja'
-title = '地域おこしスポーツ協力隊ネットワーク'
+title = '松江観光'
 
 #mdへのhtmlの追加
 [markup]
@@ -32,46 +32,25 @@ customJS = ["/js/count.js",
 [menu]
 
   [[menu.main]]
-    identifier = "about"
-    name = "組織情報"
-    title = "about section"
-    url = "/about"
-    weight = 6
+    identifier = "kankou"
+    name = "観光地"
+    title = "kankou section"
+    url = "/kankou"
+    weight = 1
 
   [[menu.main]]
-    identifier = "join"
-    name = "入会希望"
-    title = "join section"
-    url = "/join"
+    identifier = "insyoku"
+    name = "飲食店"
+    title = "insyoku section"
+    url = "/insyoku"
     weight = 2
 
   [[menu.main]]
-    identifier = "post"
-    name = "協力隊募集"
-    title = "post section"
-    url = "/post/"
+    identifier = "taiken"
+    name = "体験"
+    title = "taiken section"
+    url = "/taiken"
     weight = 3
-
-  [[menu.main]]
-    identifier = "event"
-    name = "イベント"
-    title = "event section"
-    url = "/event/"
-    weight = 4
-
-  [[menu.main]]
-    identifier = "blog"
-    name = "ブログ"
-    title = "blog section"
-    url = "/blog/"
-    weight = 5
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "問い合わせ"
-    title = "contact section"
-    url = "/contact/"
-    weight = 1
 
 #タグ付け
 [taxonomies]

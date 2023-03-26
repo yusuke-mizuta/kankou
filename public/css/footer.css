@@ -1,20 +1,7 @@
-.footerSNS a {
-    font-size: 50px;
-    color: #3e3a39;
-}
 
-.footerSNS{
-    background-color: #999999;
-}
-
-.footerSNSItems{
-    display: flex;
-    justify-content: space-between;
-}
 
 footer {
     width: 100%;
-    height: 60px;
     background-color: #999999;
     line-height: 60px;
 }
@@ -23,16 +10,38 @@ footer {
     font-size: 16px;
     color: #FAFAFA;
     text-align: center;
+    margin-bottom: 0;
 }
 
-.fa-twitter:hover{
-    color:lightblue;
+#profile {
+    background-color: #ECEFF1;
 }
 
-.fa-youtube-play:hover{
-    color:red;
+.profile-group {
+    padding: 0 0 10px 0;
 }
 
-.fa-facebook-square:hover{
-    color:blue;
+.my-face {
+    width: 180px;
+    height: 180px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-image: url("/img/me.jpg");
+}
+
+.right-content {
+    padding-top: 10px;
+    text-align:center;
+}
+
+
+.discription-title:first-child {
+    margin-top: 0;
+}
+.discription-text {
+    font-size: 16px;
+}
+.discription-title {
+    margin: 20px 0 5px 0;
+    font-size: 20px;
 }
