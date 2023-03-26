@@ -14,6 +14,7 @@ layout: "custom"
 	<img class="picture" src="/img/karakoro.png"></img>
 	<p>色んな体験教室やっているところ。<br>
 	遊覧船乗り場の近く。</p>
+	<a target=blank href="https://www.karakoro-kobo.com/">ホームページ</a>
 </section>
 
 <section class="info">
@@ -22,6 +23,7 @@ layout: "custom"
 	</h2>
 	<img class="picture" src="/img/horikawa.png"></img>
 	<p>こたつに入りながら船で城の周りを観光できる。</p>
+	<a target=blank href="https://www.matsue-horikawameguri.jp/">ホームページ</a>
 </section>
 
 <section class="info">
@@ -29,6 +31,7 @@ layout: "custom"
 	</h2>
 	<img class="picture" src="/img/musya.png"></img>
 	<p>武将のコスプレした人が松江城を案内してくれる。</p>
+	<a target=blank href="https://matsue-musya.com/344">ホームページ</a>
 </section>
 
 <section class="info">
