@@ -13,7 +13,8 @@ layout: "custom"
 		<a target=blank href="https://goo.gl/maps/f7FyCP38YE7PnHii7">地図</a>
 	</h2>
 	<img class="picture" src="/img/siro.png"></img>
-	<p>定番すぎて特に言うことなし。ちょうど桜が見頃。</p>
+	<p>定番すぎて特に言うことなし。<br>
+	ちょうど桜が見頃。</p>
 </section>
 
 <section class="info">
@@ -30,7 +31,8 @@ layout: "custom"
 		<a target=blank href="https://goo.gl/maps/G2qERChcR8ovZYBb9">地図</a>
 	</h2>
 	<img class="picture" src="/img/yusien.png"></img>
-	<p>おすすめの庭園その２。イルミネーションがある。</p>
+	<p>おすすめの庭園その２<br>
+	イルミネーションがある。</p>
 </section>
 
 <section class="info">

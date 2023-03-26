@@ -4,23 +4,27 @@
     text-align: center;
 }
 
-.info_box{
-    justify-content: center;
-}
-.info a{
-    font-size:16px;
-}
-
 .info {
     float: left;
-    width: 350px;
+    width: 300px;
     height: 350px;
-    box-sizing: border-box;
-    padding: 10px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+.info_box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .clearfix::after {
     content: "";
     display: block;
     clear: left;
+}
+
+.info a{
+    font-size:16px;
 }

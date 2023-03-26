@@ -111,13 +111,13 @@ section h2 {
 
 
 /* タグ一覧 */
-.tag_bar ul{
+/* .tag_bar ul{
     list-style: none;
     text-decoration: none;
 }
 .tag_bar ul a{
     text-decoration: none;
-}
+} */
 
 @media screen and(max-width: 768px){
 .container {
@@ -133,9 +133,7 @@ section h2 {
 #portfolio {
     padding: 0 5%;
 }
-/* .production-group {
-    width: 300px;
-} */
+
 .production {
     float: none;
 }
