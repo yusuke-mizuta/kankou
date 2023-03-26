@@ -45,3 +45,15 @@ footer {
     margin: 20px 0 5px 0;
     font-size: 20px;
 }
+
+/* トップへ戻るボタン */
+.page_top_btn {
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    background-image: url("/img/neko.png");
+    border-radius: 50%;
+    opacity: 0.6;
+}
